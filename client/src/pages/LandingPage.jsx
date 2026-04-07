@@ -219,9 +219,9 @@ export default function LandingPage() {
           </div>
           <div className="roh-secretary-copy">
             <p className="roh-eyebrow">From the secretary</p>
-            <h2 className="roh-section-h2">A simple<br /><span className="roh-accent">belief.</span></h2>
+            <h2 className="roh-section-h2">A simple <span className="roh-accent">belief.</span></h2>
             <blockquote className="roh-quote">
-              "No one in our city should go hungry or lose a loved one due to a shortage of blood."
+              "We prioritize the health and well-being of every underprivileged individual. We are committed to ensuring timely access to blood for all those in need."
             </blockquote>
             <p className="roh-body-text">
               From our hub in Cuttack, we coordinate real-time blood support and food drives across Odisha — with volunteers who believe in the mission as deeply as we do.
