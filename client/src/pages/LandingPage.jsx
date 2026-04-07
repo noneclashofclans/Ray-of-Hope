@@ -147,7 +147,7 @@ export default function LandingPage() {
                   <span>{user.username}</span>
                 </div>
                 <Link className="roh-btn-ghost w-100 justify-content-center" to="/dashboard">Dashboard</Link>
-                <button className="roh-btn-primary w-100 justify-content-center text-danger" onClick={handleLogout}>Logout</button>
+                <button className="roh-btn-primary w-100 justify-content-center" onClick={handleLogout}>Logout</button>
               </>
             ) : (
               <>
